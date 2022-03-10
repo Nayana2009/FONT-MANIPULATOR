@@ -1,0 +1,33 @@
+
+.heading{
+    font-size: 30px;
+    width: 100%;
+    margin:0px;
+    box-shadow: 5px 5px 5px grey;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+    font-variant: small-caps;
+    font-weight: bold;
+}
+.note{
+    font-size: 18px;
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+    font-variant: normal;
+}
+.copy_right_footer{
+    width: 100%;
+    background-color: rgb(221, 216, 216);
+    color: black;
+    bottom: 0;
+    position: fixed;
+    font-size: 18px;
+ font-weight: bold;
+ font-family: 'Courier New', Courier, monospace;
+ text-align: center;
+}
+canvas{
+    box-shadow: 5px 5px 5px grey;
+    background-color: white;
+    border: 5px solid white;
+    border-radius: 20px;
+}
